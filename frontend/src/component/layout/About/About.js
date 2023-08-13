@@ -30,6 +30,7 @@ const About = () => {
               purpose to learn MERN Stack.
             </span>
           </div>
+          
           <div className="aboutSectionContainer2">
             <Typography component="h2">Our Brands</Typography>
             <a
