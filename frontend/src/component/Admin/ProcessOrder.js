@@ -63,9 +63,9 @@ const ProcessOrder = ({ history, match }) => {
           ) : (
             <div
               className="confirmOrderPage"
-              style={{
-                display: order.orderStatus === "Delivered" ? "block" : "grid",
-              }}
+              // style={{
+              //   display: order.orderStatus === "Delivered" ? "block" : "grid",
+              // }}
             >
               <div>
                 <div className="confirmshippingArea">
